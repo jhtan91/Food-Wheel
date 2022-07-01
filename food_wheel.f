@@ -10,7 +10,7 @@
         character(len=3),dimension(5)::food
         real::r,a
 		
-		food = ["jap","kor","kfc","mcd","diy"]
+	food = ["jap","kor","kfc","mcd","diy"]
         !food(1)="jap"
         !food(2)="kor"
         !food(3)="kfc"
